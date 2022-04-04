@@ -21,3 +21,12 @@
  ➡️ [Gem - Geocoder](https://github.com/alexreisner/geocoder)
  
    ⭐[Usada nessa prática](https://github.com/srtapoe/estudos-rails/blob/main/geolocalizacao.rb)
+
+➡️ [Gem - LeroleroGenerator](https://github.com/jacksonpires/lerolero_generator)
+ 
+   ⭐[Usada nessa prática]()
+
+➡️ [Gem - TituloEleitorUtils](https://github.com/jacksonpires/titulo_eleitor_utils)
+ 
+   ⭐[Usada nessa prática]()
+
