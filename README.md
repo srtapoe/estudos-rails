@@ -24,9 +24,9 @@
 
 ➡️ [Gem - LeroleroGenerator](https://github.com/jacksonpires/lerolero_generator)
  
-   ⭐[Usada nessa prática]()
+   ⭐[Usada nessa prática](https://github.com/srtapoe/estudos-rails/blob/main/aleartorio.rb)
 
 ➡️ [Gem - TituloEleitorUtils](https://github.com/jacksonpires/titulo_eleitor_utils)
  
-   ⭐[Usada nessa prática]()
+   ⭐[Usada nessa prática](https://github.com/srtapoe/estudos-rails/blob/main/tituto_eleitor_fake.rb)
 
