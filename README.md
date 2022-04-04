@@ -15,7 +15,9 @@
     🥇 Gems 
 
 ➡️ [Gem - cpf_utils](https://rubygems.org/gems/cpf_utils)
+
   ⭐[Usada nessa prática](https://github.com/srtapoe/estudos-rails/blob/main/cpf.rb)
   
  ➡️ [Gem - Geocoder](https://github.com/alexreisner/geocoder)
+ 
    ⭐[Usada nessa prática](https://github.com/srtapoe/estudos-rails/blob/main/geolocalizacao.rb)
