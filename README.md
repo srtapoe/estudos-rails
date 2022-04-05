@@ -9,6 +9,9 @@
 
 2️⃣ [Introdução à Computação com Ruby](https://www.casadocodigo.com.br/products/livro-aprendendo-computacao-ruby)
 
+:three: [Dev Resources - Collections of APIS](https://www.devresourc.es/category/public-apis/all)
+
+
 
 ### 📖 Atualmente estuando:
 
@@ -54,3 +57,6 @@
 
 :alien: [The Ricky and Morty API](https://rickandmortyapi.com/?ref=devresourc.es)
    :exclamation: [Prática com essa API](https://github.com/srtapoe/estudos-rails/blob/main/consumindo_apis/rick_and_morty.rb)
+
+:alien: [An API of Ice And Fire](https://anapioficeandfire.com/?ref=devresourc.es)
+   :exclamation: [Prática com essa API](https://github.com/srtapoe/estudos-rails/blob/main/consumindo_apis/ice_and_fire.rb)
