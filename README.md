@@ -44,7 +44,13 @@
 ### 📖 Utilizando API's públicas:
 
 :alien: [Fun Translations API](https://funtranslations.com/api/)
-   :exclamation: [Prática com essa API]()
+   :exclamation: [Prática com essa API](https://github.com/srtapoe/estudos-rails/blob/main/consumindo_apis/api_fun.rb)
 
 :alien: [Chuck Norris](https://api.chucknorris.io/#!)
-   :exclamation: [Prática com essa API]()
+   :exclamation: [Prática com essa API](https://github.com/srtapoe/estudos-rails/blob/main/consumindo_apis/chuck_norris.rb)
+
+:alien: [Cat](https://docs.thecatapi.com/?ref=devresourc.es)
+   :exclamation: [Prática com essa API](https://github.com/srtapoe/estudos-rails/blob/main/consumindo_apis/cat.rb)
+
+:alien: [The Ricky and Morty API](https://rickandmortyapi.com/?ref=devresourc.es)
+   :exclamation: [Prática com essa API](https://github.com/srtapoe/estudos-rails/blob/main/consumindo_apis/rick_and_morty.rb)
