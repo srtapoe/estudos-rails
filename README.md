@@ -60,3 +60,6 @@
 
 :alien: [An API of Ice And Fire](https://anapioficeandfire.com/?ref=devresourc.es)
    :exclamation: [Prática com essa API](https://github.com/srtapoe/estudos-rails/blob/main/consumindo_apis/ice_and_fire.rb)
+
+:alien: [PoetryDB](https://github.com/thundercomb/poetrydb#readme?ref=devresourc.es)
+   :exclamation: [Prática com essa API](https://github.com/srtapoe/estudos-rails/blob/main/consumindo_apis/poetry.rb)
