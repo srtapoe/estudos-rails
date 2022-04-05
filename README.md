@@ -30,3 +30,8 @@
  
    ⭐[Usada nessa prática](https://github.com/srtapoe/estudos-rails/blob/main/tituto_eleitor_fake.rb)
 
+:unlock: Nessa gem do 'gmail' tive muitas dificuldades, mas uma que alerto é que a senha usada para conexão é a chamada 'senha do aplicativo' que você gera em Configurações da Conta --> Configurações --> Segurança --> Senha do Aplicativo
+
+➡️ [Gem - gmail_sender](https://github.com/dcadenas/gmail_senders)
+ 
+   ⭐[Usada nessa prática](https://github.com/srtapoe/estudos-rails/blob/main/estudando-gems/gmail.rb)
