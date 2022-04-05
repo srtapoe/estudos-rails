@@ -35,3 +35,7 @@
 ➡️ [Gem - gmail_sender](https://github.com/dcadenas/gmail_senders)
  
    ⭐[Usada nessa prática](https://github.com/srtapoe/estudos-rails/blob/main/estudando-gems/gmail.rb)
+
+➡️ [Gem - Faker](https://github.com/faker-ruby/faker)
+ 
+   ⭐[Usada nessa prática](https://github.com/srtapoe/estudos-rails/blob/main/estudando-gems/identidade_falsa.rb)
