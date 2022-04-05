@@ -39,3 +39,12 @@
 ➡️ [Gem - Faker](https://github.com/faker-ruby/faker)
  
    ⭐[Usada nessa prática](https://github.com/srtapoe/estudos-rails/blob/main/estudando-gems/identidade_falsa.rb)
+
+
+### 📖 Utilizando API's públicas:
+
+:alien: [Fun Translations API](https://funtranslations.com/api/)
+   :exclamation: [Prática com essa API]()
+
+:alien: [Chuck Norris](https://api.chucknorris.io/#!)
+   :exclamation: [Prática com essa API]()
